@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e50f569489ad114fa38d05bd7972e8e, type: 3}
+  m_Name: Mace
+  m_EditorClassIdentifier: 
+  name: Mace
+  icon: {fileID: 21300000, guid: f16e2cae89f80f642981e36bcc18380f, type: 3}
+  pickupPrefab: {fileID: 114052542783015246, guid: 969fc6311e0f1644e956cb918c98f39e,
+    type: 3}
+  EquipSlot: 4
+  DamageModifier: 10
+  ArmorModifier: 1
+  SpeedModifier: 1
